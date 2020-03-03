@@ -1,4 +1,4 @@
--- is null / is not null
+-- is null / is not
 
 ON students.id = student_id
 WHERE students.end_date is NULL

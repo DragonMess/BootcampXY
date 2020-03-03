@@ -1,2 +1,2 @@
 # BootcampXY
-![](images/students-Cohorts-tables.png)
+![](images/DiagramBootcampXY.png)
